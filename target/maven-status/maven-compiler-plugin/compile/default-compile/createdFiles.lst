@@ -1,0 +1,7 @@
+Model\UserProfile.class
+RegistrServlet.class
+DirServlet.class
+AuthServlet.class
+DownloadFileServlet.class
+Service\DBService.class
+Service\UsersDAO.class
